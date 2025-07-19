@@ -52,8 +52,8 @@ End-to-end AI launch agent: prepares launch plan, content, landing page + distri
 
 ## 📬 Connect with Me
 
-- 🔗 Portfolio: [yourwebsite.com](https://prateekkatare.com)
-- 🧵 X/Twitter: [@yourhandle](https://twitter.com/PrateekKatare)
+- 🔗 Portfolio: [prateekkatare.com](https://prateekkatare.com)
+- 🧵 X/Twitter: [@PrateekKataree](https://twitter.com/PrateekKatare)
 - 📧 Reach out for: remote roles, collabs, or product feedback
 
 ---
