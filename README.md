@@ -10,13 +10,12 @@ I build AI-powered tools, frontends, and automation workflows that solve real-wo
 - 🧩 Building AI agents + automations with GPT-4, LangChain, and Zapier  
 - 🛠️ Designing and developing frontends using React, Tailwind, Framer  
 - 📦 Shipping microproducts, landing pages, and MVPs in record time  
-- 🌍 Target: $30K/yr remote role + $10K from micro-SaaS within 90 days  
 
 ---
 
 ## 🧪 Live Projects
 
-### 🔹 [ColdWise AI](https://coldwiseai.com)
+### 🔹 ColdWise AI
 AI-powered cold outreach engine that researches leads, writes personalized emails, and automates follow-up via Zapier.
 
 ### 🔹 ThreadMancer
@@ -53,10 +52,8 @@ End-to-end AI launch agent: prepares launch plan, content, landing page + distri
 
 ## 📬 Connect with Me
 
-- 🔗 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🧵 X/Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🔗 Portfolio: [yourwebsite.com](https://prateekkatare.com)
+- 🧵 X/Twitter: [@yourhandle](https://twitter.com/PrateekKatare)
 - 📧 Reach out for: remote roles, collabs, or product feedback
 
 ---
-
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
